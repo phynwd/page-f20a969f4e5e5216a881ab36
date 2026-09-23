@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4be72b102bbd4c41f8b30678",
+  "owner": "phynwd",
+  "repo": "page-f20a969f4e5e5216a881ab36",
+  "title": "Mitce",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f20a969f4e5e5216a881ab36",
+      "a": "Mitce",
+      "b": "2027最新官网",
+      "entity": "Mitce",
+      "brand": "Mitce",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9165445b5fd71926d59464a1d6ac57271abedc4b540095be53af805df6dedbc6",
+      "content": {
+        "primary_entity": "Mitce",
+        "keyword1": "Mitce",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Mitce 在不同设备上通过对应客户端完成订阅导入，手机、电脑与路由器均有常用方案可选。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "从实际设备数量与月流量出发，选一档 Mitce 套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，导入即用",
+          "AI_DESCRIPTION": "，围绕设备数量与月流量寻找合适套餐，基础版适合轻度上网，旗舰版覆盖流媒体与游戏加速，团队版面向多设备协作场景。",
+          "AI_FEATURES_INTRO": "Mitce 提供三档套餐，按在线设备数量与月流量区分，可按月或按年付费，覆盖个人到团队的不同使用规模。",
+          "AI_FEATURES_TITLE": "套餐、设备与订阅周期",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "所有套餐支持按月支付，年付更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "手机与电脑按客户端文档导入订阅，路由器与多设备场景可结合团队版的高带宽节点使用。",
+          "AI_FEATURE_TITLE_1": "按设备与流量选档",
+          "AI_FEATURE_TITLE_2": "按月或按年订阅",
+          "AI_FEATURE_TITLE_3": "多端订阅导入",
+          "AI_GUIDE_INTRO": "从确认使用规模到导入订阅，按三步完成 Mitce 的配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Mitce 提供按月与按年订阅的加速套餐，基础版、旗舰版与团队版分别对应 3 台、5 台和 20 台在线设备，覆盖流媒体、游戏加速与多设备协作场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅套餐选择",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备轻度使用，旗舰版在 5 台设备上兼顾流媒体与游戏加速，团队版面向 20 台设备与高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与月流量，单人多设备可选旗舰版，团队协作可选团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与节点类型，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，手机、电脑与路由器分别选择适配的客户端方案。",
+          "AI_STEP_TITLE_1": "确认使用规模",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Mitce 套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。流量按月重置，适合不同使用强度。",
+          "AI_FAQ_ANSWER_2": "在 Mitce 账户内可查看当前套餐的在线设备数量上限，超出后需要升级套餐。旗舰版与团队版支持更多设备，适合手机、平板和电脑同时使用。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付节省两个月费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。需要长期使用可选年付方式，短期体验按月付费即可。",
+          "AI_FAQ_ANSWER_4": "旗舰版支持全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合追剧和游戏场景。基础版可解锁基础流媒体，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "先确认设备数量和每月流量需求，再选择对应套餐。单设备轻量使用选基础版，多设备游戏或流媒体选旗舰版，企业多设备定制路由选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付如何选择？",
+          "AI_FAQ_QUESTION_4": "哪档套餐更适合流媒体和游戏？",
+          "AI_FAQ_QUESTION_5": "如何根据使用场景挑选套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq588bn05b.com",
+    "host": "xn--9kq588bn05b.com"
+  },
+  "file_hashes": {
+    "index.html": "3f534c34e8a2ad2d7ecdbfb40a5c62f01e8839224455dc615b73282a67510eac",
+    "sitemap.xml": "71c139b0db6f35aa68cc39446329ac258b8e3674ff6dda05019ac5b0f866dcc6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a89188248869d5d15a5c32a8c540dab957032d34044a62e033b2c20817ccaad0",
+    "robots.txt": "73da4a5bf48f1a97754f322d64a6a34c2c6790e8851e59c1f4057b9f362efda9",
+    "115ca1cef1cc122c2bc5d2570bda2307.txt": "5afc29601590c2d93b88e51a1ad86c5ff776f7fcd9482d9492fb5d225a12d42e"
+  },
+  "revision": "7132c65e3f1900572dd975c2562e394f4cc357cff1ff36b762b38a3ae983ccfe"
+}
